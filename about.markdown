@@ -12,4 +12,4 @@ and here is [my personal website][website].
 
 [blog]: https://tobybull.github.io/
 [github]: https://github.com/tobybull
-[website]: tobybull.uk
+[website]: https://tobybull.uk
