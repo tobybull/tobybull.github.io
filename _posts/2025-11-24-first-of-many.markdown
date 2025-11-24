@@ -37,4 +37,6 @@ It remains to be seen what exactly I'll use this for, but there's so many ideas 
 
 ## The future
 
-My goal is to earn a living, for the rest of my working life, with my own independent efforts. That will inevitably come in the form of a SaaS to begin with, but who knows what the world will look like in five, ten and twenty years from now.
+My goal is to earn a living, for the rest of my working life, with my own independent efforts. 
+
+That will inevitably come in the form of a SaaS to begin with, but who knows what the world will look like in five, ten and twenty years from now.
