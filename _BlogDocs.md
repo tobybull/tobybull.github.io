@@ -167,7 +167,7 @@ Your repo already contains a GitHub Actions workflow:
 .github/workflows/pages.yml
 ```
 
-Every push to `main` triggers:
+Every push to `master` triggers:
 
 1. GitHub builds your site
 2. Uploads the `_site/` content

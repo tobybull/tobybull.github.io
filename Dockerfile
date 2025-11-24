@@ -1,4 +1,4 @@
-FROM ruby:3.3-slim
+FROM docker.io/ruby:3.3-slim
 
 # Install OS dependencies
 RUN apt-get update && \
