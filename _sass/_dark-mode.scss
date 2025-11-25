@@ -1,0 +1,194 @@
+// Dark Mode Styles
+
+body.dark-mode {
+  background: #1a1a1a;
+  color: #e0e0e0;
+
+  // Typography
+  h1, h2, h3, h4, h5, h6 {
+    color: #f0f0f0;
+  }
+
+  h4 {
+    color: #e0e0e0;
+  }
+
+  // Links
+  a {
+    color: #6db3f2;
+
+    &:hover, &:active {
+      color: #8fc6ff;
+    }
+  }
+
+  // Code blocks
+  code {
+    background-color: #2d2d2d;
+    color: #e0e0e0;
+  }
+
+  pre {
+    background-color: #2d2d2d;
+    border: 1px solid #404040;
+  }
+
+  // Blockquotes
+  blockquote {
+    color: #b0b0b0;
+    border-left: 2px solid #404040;
+  }
+
+  // Tables
+  table tr {
+    border-top: 1px solid #404040;
+    background-color: #1a1a1a;
+  }
+
+  table tr:nth-child(2n) {
+    background-color: #252525;
+  }
+
+  table tr th,
+  table tr td {
+    border: 1px solid #404040;
+  }
+
+  // Horizontal rules
+  hr {
+    background-color: #404040;
+    border-color: #404040;
+  }
+
+  // Wrapper sections
+  .wrapper-masthead {
+    border-bottom: 1px solid #404040;
+    background-color: #1a1a1a;
+  }
+
+  .wrapper-footer {
+    border-top: 1px solid #404040;
+    background-color: #1a1a1a;
+  }
+
+  // Navigation
+  nav a {
+    color: #b0b0b0;
+
+    &:hover, &:active {
+      color: #6db3f2;
+    }
+  }
+
+  .site-name a {
+    color: #f0f0f0;
+  }
+
+  .site-description {
+    color: #b0b0b0;
+  }
+
+  // Posts
+  .post {
+    blockquote {
+      border-left: 2px solid #404040;
+      color: #b0b0b0;
+    }
+  }
+
+  .post h2::before,
+  .post h2::after {
+    background: #404040 !important;
+  }
+
+  .post_date {
+    color: #888;
+  }
+
+  .read-more {
+    color: #6db3f2;
+
+    &:hover {
+      color: #8fc6ff;
+    }
+  }
+
+  // Pagination
+  .pagination {
+    a, span {
+      color: #b0b0b0;
+      border: 1px solid #404040;
+    }
+
+    a:hover {
+      background-color: #2d2d2d;
+      color: #6db3f2;
+    }
+
+    .webjeda {
+      background-color: #2d2d2d;
+      border: 1px solid #6db3f2;
+      color: #6db3f2;
+    }
+  }
+
+  // Search
+  input[type="text"] {
+    background-color: #2d2d2d;
+    color: #e0e0e0;
+    border: 1px solid #404040;
+  }
+
+  // Entry content
+  .entry {
+    color: #d0d0d0;
+  }
+
+  // SVG icons
+  svg {
+    fill: #b0b0b0;
+  }
+
+  // Top bar
+  #bar {
+    background: linear-gradient(to right, #6db3f2, #8fc6ff);
+  }
+}
+
+// Dark mode toggle button
+.dark-mode-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #f0f0f0;
+  border: 2px solid #333;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  transition: all 0.3s ease;
+  z-index: 1000;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+
+  &:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  }
+
+  @include mobile {
+    bottom: 15px;
+    right: 15px;
+    width: 45px;
+    height: 45px;
+    font-size: 20px;
+  }
+}
+
+body.dark-mode .dark-mode-toggle {
+  background-color: #2d2d2d;
+  border-color: #6db3f2;
+}
