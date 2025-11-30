@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Interpreting Dreams"
+date:   2025-11-24 11:25:00 +0000
+categories: dreams psychology
+excerpt: but I remember being uncompromising that I had my own things to take care of, and wouldn't run behind them just to be included.
+---
+
+## Back to School
+
+One of my regular dream scenarios is what I call the "back to school" dream. It varies between secondary school, sixth form, and university. Usually the dream is a stressful scenario where for some reason I'm going back to education, but I don't have the timetable, so I don't know where or when my classes are. Sometimes the stress is due to an extremely large and difficult workload that I've already fallen behind on and have to perform a miracle to catch up, which probably stems back to A level Physics.
+
+This time, it wasn't really a stress dream. A lot of the time I'm actually relishing the challenge to go back, now an adult, with a better work ethic, more emotionally robust. In this dream I remember looking at by blue planner. I feel sure it's exactly like one I once had that I'd long since forgotten. It's odd to think there are distant memories still in our minds that we barely have access to. This time, the timetable was there in the back of my planner. Physics was on Friday at 2pm. 
+
+I was looking forward to Friday in this dream, because Friday mornings were the music day, where I could practice trumpet, and hang out with friends. Somehow the dream moved on to lunch time. Now, I was taking time getting my motorcycle gear on, and everyone else was leaving without me. There are some more details that I forget now, but I remember being uncompromising that I had my things to take care of, and wouldn't run behind them just to be included. At the same time, I did feel some betrayal and abandonment. It's easy to see where that came from at this time in my life.
+
+The idea of interpreting our dreams is usually dismissed as meaningless hocus-pocus, like Astrology or Tarot cards. In reality, it's usually very easy to trace each minute detail of a dream back to something that's happened. The disappointing aspect to my dreams is that they're mostly set in the past. I feel like the last ten years of my life, have basically passed me by. It's been great financially, and great for my career, but that's all it's been. That strikes me as something I should aim to change.
+
+## Is a weekend still a weekend?
+
+Now that I'm working for myself, I have to admit that I'm a really forgiving boss. My intention was to just work every day, now that it doesn't really feel like work. I think this weekend, I've not been able to shake the forty years of week-weekend psychology, so I've not got much done at all. Hopefully though, Monday will feel like a new beginning of a work week and I'll get back into it. At least I've kept up with my running. 
+
+I'm actually quite excited about running. I've never been fit in my life, and I'm determined this time to keep it up until I have a base level of fitness that allows me to run for a sustained period, even at a slow pace, rather than just building up an oxygen deficit until I hit failure. All I need to do it run every day. That's it. It doesn't even take long. Why haven't I been doing this the whole time? Something I try never to do it look back. I believe in clean breaks when starting anew. 
+
+## A creative outlet
+
+In a past life, I was a bit of a musician. I've thought about getting in to music production. I see people doing such cool stuff, but I've recently learned about an open source game engine called Godot. Named after the famous play 'Waiting for Godot', it looks a tiny bit simpler to use, and much better suited to indie game devs. I started an Unreal Engine course, but it's not built for Linux, so that ended it quite quickly. Part of me feels like the last thing that I should be doing is starting to learn how to make a video game, when I'm meant to be smashing it on SaaS projects. Ultimately it's my mind doing the same thing it did when I was employed. It absolutely was possible for me to find the time and energy to do other things, but I just didn't. Equally, I could spend an hour or two a day learning game dev, and still be productive. Even this week while I'm high on the honeymoon period of not being an employee for a woke catastrophe, ultimately I've not put that many hours in. I think that needs to change, no matter what way I look at it, I need to be sat in my desk working for longer if I'm even going to get things done. I think I naturally shy away from something that's going to be cognitively difficult. It's not hard work I avoid, I'd happily take on a physical challenge, or something that's just a high-volume grind, but somehow when it's something difficult, something that's not well defined, it's really hard to get myself to just get stuck in. 
+
+## Doing hard things
+
+I think everyone is like that to some extent. That's what separates the men from the boys. Years ago I worked in the Crown Prosecution Service. Just as a bottom of the barrel admin. It was an awful place to work, but that's a story for another day. Something I noticed was many of the lawyers there had a high opinion of themselves. They'd done their law degree, the training contract, they went to court and prosecuted criminals, and they had a high workload, and in many cases they were paid well. The effect this had, was that with all the years of experience under their belt, they thought they knew it all, to the point that they had a really strong aversion to ever having to learn something new. They reacted with disdain and indignation when the CPS tried to introduce some digitisation of their work, or having to cover a case that departed from the standard set of crimes that they dealt with for 90% of their caseload. 
+
+I think many adults have a similarly strong aversion to learning something new. This comes from the mental scars we all carry from school when we struggled with something, and from the fact that most of us are really busy, really stressed and generally hanging on by a thread. Being faced with the prospect of having to actually learn something new, by sitting and reading, thinking, making notes, practicing etc, puts us into choppy waters that we had hoped that we'd finally escaped, having planted our feet on the dry land of adulthood.
+
+The benefits of learning, even in adulthood seem to be vast, improving our mental health, and even staving off cognitive decline that plagues so many in later life. Why is it then that we instinctively avoid learning and doing hard things? It could be an energy conservation technique. Out brains draw a lot of resources. I'm lucky, in that I went back to university aged 27, I've had lots of learning ever since in my jobs, despite never getting any training, even from companies that would have financially benefited. It was a grind, but one which has left me quite open to learning new things, doing hard things, but not completely immune from the procrastination and distraction that my mind will try.
