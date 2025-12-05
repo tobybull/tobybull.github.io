@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Interpreting Dreams"
-date:   2025-11-30 17:03:00 +0000
+title: "Interpreting Dreams"
+date: 2025-11-30 17:03:00 +0000
 categories: dreams psychology
 excerpt: but I remember being uncompromising that I had my own things to take care of, and wouldn't run behind them just to be included.
 ---
